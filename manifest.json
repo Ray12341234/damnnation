@@ -1,15 +1,15 @@
 {
-  "id": "com.stremio.nowexample",
+  "id": "example.mana",
   "version": "0.0.1",
-  "name": "Now.sh Example",
+  "name": "Manatastic",
   "description": "Example Add-on",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
     {
       "type": "movie",
-      "id": "BigBuckBunnyCatalog",
-      "name": "Big Buck Bunny Catalog"
+      "id": "ManaCatalog",
+      "name": "Mana Catalog"
     }
   ]
 }
