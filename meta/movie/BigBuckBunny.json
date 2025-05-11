@@ -1,12 +1,12 @@
 {
   "meta": {
-    "id": "BigBuckBunny",
-    "name": "Big Buck Bunny",
-    "year": 2008,
-    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVEFQvFMMsg4e6yb03xOfVsDz4o.jpg",
+    "id": "Mana",
+    "name": "Mana",
+    "year": 2025,
+    "poster": "https://i.pinimg.com/originals/76/3e/6f/763e6fbb1967457dc99e05f8d08ecbd7.jpg",
     "posterShape": "regular",
-    "logo": "https://fanart.tv/fanart/movies/10378/hdmovielogo/big-buck-bunny-5054df8a36bfa.png",
-    "background": "https://image.tmdb.org/t/p/original/aHLST0g8sOE1ixCxRDgM35SKwwp.jpg",
+    "logo": "https://i.pinimg.com/originals/2e/a9/74/2ea974cbaee5cbfe46ca2bcb78751c09.jpg",
+    "background": "https://i.pinimg.com/originals/e0/fa/d4/e0fad43cec5153e4be804eb0294d0249.jpg",
     "isFree": true,
     "type": "movie"
   }
