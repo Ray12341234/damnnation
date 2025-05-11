@@ -2,7 +2,7 @@
   "id": "example.mana",
   "version": "0.0.1",
   "name": "Manatastic",
-  "description": "Example Add-on",
+  "description": "editor",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
