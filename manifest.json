@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "name": "Manatastic",
   "description": "editor",
-  "resources": ["catalog", "meta", "stream"],fjdk
+  "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
     {
