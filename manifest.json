@@ -7,7 +7,7 @@
   "types": ["movie"],
   "catalogs": [
     {
-      "type": "movie",d
+      "type": "movie",
       "id": "ManaCatalog",
       "name": "ManaCatalog"
     }
